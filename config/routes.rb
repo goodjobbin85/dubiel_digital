@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   #fix routes from scratch later!!!!!!!!!!!!!
-  # root "posts#index"
+  root "posts#index"
 
   # get "posts", to: "posts#index" 
   # get "posts/new", to: "posts#new", as: "new_post" 
